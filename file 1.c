@@ -2,9 +2,11 @@
 
 int main() 
 {
-char askii;
-printf("please enter a charactor: \n");
-scanf ("%c", &askii);
-printf ("%i", askii);
+char text [] 
+printf ("enter your message")
+scanf (" %[^/n]", text)
+ptintf("enter key")
+scanf (" %d", &key)
+
 return 0;
 }
